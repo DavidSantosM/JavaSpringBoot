@@ -28,6 +28,6 @@ Este repositorio está dedicado a la práctica de conceptos de programación en 
 Siéntete libre de contribuir con mejoras, correcciones o sugerencias mediante pull requests. También puedes abrir issues para discutir aspectos del código o proponer nuevas prácticas.
 
 ## Contacto
-Si tienes preguntas o necesitas ayuda, puedes contactarme a través de [correo electrónico](correo@example.com) o abrir un issue en este repositorio.
+Si tienes preguntas o necesitas ayuda, puedes contactarme a través de [mi correo](davidsantosfyq@gmail.com) o abrir un issue en este repositorio.
 
 ¡Gracias por visitar este repositorio! Espero que encuentres útiles los contenidos aquí compartidos para tu aprendizaje en Java y Spring.
